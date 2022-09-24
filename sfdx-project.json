@@ -1,0 +1,11 @@
+{ 
+"packageDirectories" : [ 
+    { "path": "force-app", 
+      "default": true
+    }
+   ],
+"namespace": "", 
+"sfdcLoginUrl" : "https://csg-devops-bootcamp--ndev1.sandbox.my.salesforce.com/", 
+"sourceApiVersion": "55.0"
+}
+
